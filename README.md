@@ -5,7 +5,7 @@
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Hello!%20I'm%20Sven&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Graphics%20and%20Simulation%20Programmer&descAlign=62&descAlignY=60&descSize=22" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=000000,000033,0000ff&height=240&section=header&text=Hello!%20I'm%20Sven&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Graphics%20and%20Simulation%20Programmer&descAlign=62&descAlignY=60&descSize=22" alt="header" />
 </div>
 
 <br/>
